@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "IWI",
+    "WSW",
+    "IWI"
+  ],
+  "key": {
+    "I": {
+      "item": "minecraft:iron_ingot"
+    },
+    "W": {
+      "item": "weaponmaster:weaponkit"
+    },
+    "S": {
+      "item": "weaponmaster:workstation"
+    }
+  },
+  "result": {
+    "item": "weaponmaster_handheld_weaponstudio:portable_workbench",
+    "count": 1
+  }
+}

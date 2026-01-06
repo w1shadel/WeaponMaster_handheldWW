@@ -1,4 +1,4 @@
-package com.Maxwell.handheld_ww;
+package com.Maxwell.weaponmaster_handheld_weaponstudio;
 
 import com.sky.weaponmaster.WorkStationMenu;
 import net.minecraft.network.chat.Component;
