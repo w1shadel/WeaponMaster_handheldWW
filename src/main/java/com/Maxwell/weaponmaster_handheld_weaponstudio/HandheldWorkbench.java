@@ -16,11 +16,10 @@ import net.minecraftforge.fml.javafmlmod.FMLJavaModLoadingContext;
 import net.minecraftforge.registries.DeferredRegister;
 import net.minecraftforge.registries.RegistryObject;
 
-// The value here should match an entry in the META-INF/mods.toml file
 @Mod(HandheldWorkbench.MODID)
 public class HandheldWorkbench
 {
-    // Define mod id in a common place for everything to reference
+
     public static final String MODID = "weaponmaster_handheld_weaponstudio";
     public HandheldWorkbench(FMLJavaModLoadingContext context)
     {

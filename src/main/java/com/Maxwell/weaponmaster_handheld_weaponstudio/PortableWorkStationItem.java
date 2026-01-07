@@ -24,7 +24,6 @@ public class PortableWorkStationItem extends Item {
     public InteractionResultHolder<ItemStack> use(Level world, Player player, InteractionHand hand) {
         ItemStack itemstack = player.getItemInHand(hand);
 
-        // サーバー側でのみ実行
         if (!world.isClientSide()) {
             if (player instanceof ServerPlayer serverPlayer) {
                 MenuProvider containerProvider = new MenuProvider() {
@@ -39,7 +38,6 @@ public class PortableWorkStationItem extends Item {
                     }
                 };
 
-                // メニューを開く
                 NetworkHooks.openScreen(serverPlayer, containerProvider);
             }
         }
