@@ -4,6 +4,7 @@
   "package": "com.Maxwell.weaponmaster_handheld_weaponstudio.mixin",
   "compatibilityLevel": "JAVA_17",
   "mixins": [
+    "MixinColapseMap",
     "MixinSweeperWeaponEnchantable"
   ]
 }

@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "weaponmaster_handheld_weaponstudio:item/wm_exp_shard"
+  }
+}

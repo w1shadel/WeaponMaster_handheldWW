@@ -1,3 +1,7 @@
 {
-  "item.weaponmaster_handheld_weaponstudio.portable_workbench": "ポータブル武器作業台"
+  "item.weaponmaster_handheld_weaponstudio.portable_workbench": "ポータブル武器作業台",
+  "item.weaponmaster_handheld_weaponstudio.wm_exp_infinity": "戦神の魂",
+  "item.weaponmaster_handheld_weaponstudio.wm_exp_core": "戦の核心",
+  "item.weaponmaster_handheld_weaponstudio.wm_exp_scroll": "戦の知恵の巻物",
+  "item.weaponmaster_handheld_weaponstudio.wm_exp_shard": "戦の知恵の結晶"
 }
