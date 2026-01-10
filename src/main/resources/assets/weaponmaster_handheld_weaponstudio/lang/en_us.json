@@ -1,3 +1,7 @@
 {
-  "item.weaponmaster_handheld_weaponstudio.portable_workbench": "Portable Weapon Studio"
+  "item.weaponmaster_handheld_weaponstudio.portable_workbench": "Portable Weapon Studio",
+  "item.weaponmaster_handheld_weaponstudio.wm_exp_infinity": "War God's Soul",
+  "item.weaponmaster_handheld_weaponstudio.wm_exp_core": "War Core",
+  "item.weaponmaster_handheld_weaponstudio.wm_exp_scroll": "War Wisdom Scroll",
+  "item.weaponmaster_handheld_weaponstudio.wm_exp_shard": "War Wisdom Shard"
 }
